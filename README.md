@@ -1,6 +1,6 @@
 # Project CNPMNC
 
-## Project name: Quizz App
+## Project name: Trac Nghiem
 #
 ## Members:
 * ## Phạm Duy Minh
