@@ -1,6 +1,5 @@
 # Project name: Trac Nghiem
 
-#
 ## Setup Backend
 * ### Step 1: open SQL Shell (psql)
 * ### Step 2: `$ create database quizz;`
