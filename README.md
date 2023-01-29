@@ -1,13 +1,5 @@
-# Project CNPMNC
+# Project name: Trac Nghiem
 
-## Project name: Trac Nghiem
-#
-## Members:
-* ## Phạm Duy Minh
-* ## Võ Duy Kha
-* ## Nguyễn Văn Huy Em
-* ## Nguyễn Thị Thu Hải
-* ## Trần Đức Huy
 #
 ## Setup Backend
 * ### Step 1: open SQL Shell (psql)
